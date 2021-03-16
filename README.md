@@ -25,19 +25,19 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - :closed_book: - Not started
 
 # Trybe Lectures
-## Introduction - Fundamentals of Web Development :heavy_check_mark:
+## Introduction - Fundamentals of Web Development :hourglass_flowing_sand:
 ##### Unit 1: Introduction - Unix & Shell :heavy_check_mark:
 
 - [X] 1.3: Unix & Bash - Part 1
 - [X] 1.4: Unix & Bash - Part 2
 
-##### Unit 2: Git & GitHub :heavy_check_mark:
+##### Unit 2: Git & GitHub :hourglass_flowing_sand:
 
 - [X] 2.1: What it is and what it's meant for
 - [X] 2.2: Understandign the commands
 - [ ] 2.3: Internet - How it works?
 
-##### Unit 3: Introduction to HTML & CSS :heavy_check_mark:
+##### Unit 3: Introduction to HTML & CSS :closed_book:
 
 - [ ] 3.1: HTML & CSS - Page structures
 - [ ] 3.2: HTML & CSS - First steps in CSS
@@ -45,7 +45,7 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [ ] 3.4: Semantic HTML
 - [ ] 3.5: [Project - Lessons Learned]()
 
-##### Unit 4: Introduction to JavaScript and Programming Logic :heavy_check_mark:
+##### Unit 4: Introduction to JavaScript and Programming Logic :closed_book:
 
 - [ ] 4.1: JavaScript - First steps
 - [ ] 4.2: JavaScript - Array and for loops
@@ -53,7 +53,7 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [ ] 4.4: JavaScript - Objects and functions
 - [ ] 4.5: [Project - Playground Functions]()
 
-##### Unit 5: Introdução - JavaScript - DOM, Events and Web Storage :heavy_check_mark:
+##### Unit 5: Introdução - JavaScript - DOM, Events and Web Storage :closed_book:
 
 - [ ] 5.1: JavaScript - DOM and selectors
 - [ ] 5.2: JavaScript - Working with elements
@@ -65,7 +65,7 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [ ] 5.7: [(Bonus) Project - Gess the Color]()
 - [ ] 5.7: [(Bonus) Project - Mysterious Letter]()
 
-##### Unit 6: HTML & CSS - Forms, Flexbox and Responsive :heavy_check_mark:
+##### Unit 6: HTML & CSS - Forms, Flexbox and Responsive :closed_book:
 
 - [ ] 6.1: HTML & CSS - Forms
 - [ ] 6.2: JavaScript Libraries and CSS Frameworks
@@ -74,14 +74,14 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [ ] 6.5: CSS Responsive - Mobile First
 - [ ] 6.6: [Project - Facebook's Login Page]()
 
-##### Unit 7: JavaScript ES6 & Unit Tests :heavy_check_mark:
+##### Unit 7: JavaScript ES6 & Unit Tests :closed_book:
 
 - [ ] 7.1: JavaScript ES6 - let, const, arrow functions and template literals
 - [ ] 7.2: JavaScript ES6 - Objects
 - [ ] 7.3: Unit tests in JavaScript
 - [ ] 7.4: [Project - JavaScript Unit Tests]()
 
-##### Unit 8: JavaScript ES6 :heavy_check_mark:
+##### Unit 8: JavaScript ES6 :closed_book:
 
 - [ ] 8.1: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 - [ ] 8.2: JavaScript ES6 - Higher Order Functions - map and filter
@@ -90,52 +90,52 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [ ] 8.5: [Project - Zoo functions]()
 
 
-##### Unit 9: Asynchronicity & Callbacks :heavy_check_mark:
+##### Unit 9: Asynchronicity & Callbacks :closed_book:
 
 - [ ] 9.1: Asynchronous JavaScript and Callbacks
 - [ ] 9.2: JavaScript Promises
 - [ ] 9.3: [Project - Shopping Cart]()
 
-##### Unit 10: Automated Tests with Jest :heavy_check_mark:
+##### Unit 10: Automated Tests with Jest :closed_book:
 
 - [ ] 10.1: First steps on Jest
 - [ ] 10.2: Jest - Asynchronous tests
 - [ ] 10.3: Jest - Simulating behaviors
 - [ ] 10.4: [Project - Asynchronous Jest and Mocking]()
 
-## Front-end Development :hourglass_flowing_sand:
+## Front-end Development :closed_book:
 
-##### Unit 11: Introduction to React :heavy_check_mark:
+##### Unit 11: Introduction to React :closed_book:
 
 - [ ] 11.1: 'Hello, world!' on React!
 - [ ] 11.2: React Components
 - [ ] 11.3: [Project - Movie Cards Library]()
 
-##### Unit 12: Componets with State, Events and Forms with React :heavy_check_mark:
+##### Unit 12: Componets with State, Events and Forms with React :closed_book:
 
 - [ ] 12.1: Components with states and events
 - [ ] 12.2: Forms on React
 - [ ] 12.3: [Project - Movie Cards Library Stateful]()
 
-##### Unit 13: Components Life Cycle and React Router :heavy_check_mark:
+##### Unit 13: Components Life Cycle and React Router :closed_book:
 
 - [ ] 13.1: Components Life Cycle on React
 - [ ] 13.2: React Router
 - [ ] 13.3: [Project - Movie Cards Library CRUD]()
 
-##### Unit 14: Agile Methodologies :heavy_check_mark:
+##### Unit 14: Agile Methodologies :closed_book:
 
 - [ ] 14.1: Agile Methodologies
 - [ ] 14.2: [Project - Frontend Online Store]()
 
-##### Unit 15: Automated Tests with React Testing Library :heavy_check_mark:
+##### Unit 15: Automated Tests with React Testing Library :closed_book:
 
 - [ ] 15.1: RTL - First steps
 - [ ] 15.2: RTL - Mocks and Inputs
 - [ ] 15.3: RTL - Testing React Router
 - [ ] 15.4: [Project - Tests on React]()
 
-##### Unit 16: State Management with Redux :heavy_check_mark:
+##### Unit 16: State Management with Redux :closed_book:
 
 - [ ] 16.1: Introduction to Redux
 - [ ] 16.2: React with Redux - Part 1
@@ -144,11 +144,11 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [ ] 16.5: Synchronous tests with React-Redux
 - [ ] 16.6: [Project - Table with data filters]()
 
-##### Unit 17: Project Trivia Game :heavy_check_mark:
+##### Unit 17: Project Trivia Game :closed_book:
 
 - [ ] 17.1: [Project Trivia Game]()
 
-##### Unit 18: React Hooks & Context API :hourglass_flowing_sand:
+##### Unit 18: React Hooks & Context API :closed_book:
 
 - [ ] 18.1: React's Context API
 - [ ] 18.2: React Hooks - useState and useContext

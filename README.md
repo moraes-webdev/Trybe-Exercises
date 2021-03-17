@@ -35,11 +35,11 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 
 - [X] 2.1: What it is and what it's meant for
 - [X] 2.2: Understandign the commands
-- [ ] 2.3: Internet - How it works?
+- [X] 2.3: Internet - How it works?
 
 ##### Unit 3: Introduction to HTML & CSS :closed_book:
 
-- [ ] 3.1: HTML & CSS - Page structures
+- [X] 3.1: HTML & CSS - Page structures
 - [ ] 3.2: HTML & CSS - First steps in CSS
 - [ ] 3.3: HTML & CSS - Selectors and positioning
 - [ ] 3.4: Semantic HTML

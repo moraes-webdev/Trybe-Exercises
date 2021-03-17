@@ -31,13 +31,13 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [X] 1.3: Unix & Bash - Part 1
 - [X] 1.4: Unix & Bash - Part 2
 
-##### Unit 2: Git & GitHub :hourglass_flowing_sand:
+##### Unit 2: Git & GitHub :heavy_check_mark:
 
 - [X] 2.1: What it is and what it's meant for
 - [X] 2.2: Understandign the commands
 - [X] 2.3: Internet - How it works?
 
-##### Unit 3: Introduction to HTML & CSS :closed_book:
+##### Unit 3: Introduction to HTML & CSS :hourglass_flowing_sand:
 
 - [X] 3.1: HTML & CSS - Page structures
 - [ ] 3.2: HTML & CSS - First steps in CSS
